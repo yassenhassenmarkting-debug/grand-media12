@@ -1,1 +1,2 @@
-# grand-media12
+# grand-media
+Grand Media - Digital Marketing Agency
